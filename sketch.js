@@ -3,8 +3,8 @@ let pipes = [];
 let score = 0;
 let gameOver = false;
 
-const NAME = "AMORSEREN";
-const SCORE_STEP = 5;
+const NAME = "Mijn naam is Klaas Houten";
+const SCORE_STEP = 2;
 const PIPE_SPACING = 180;
 
 function setup() {
